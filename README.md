@@ -2,7 +2,7 @@
 
 
 
-Files
+------------------------------------------------------Files------------------------------------------------------
 
 File / Folder					Purpose
 
@@ -14,7 +14,7 @@ appsettings.json		Application configuration
 appsettings.Development.json	Development-specific settings
 
 
-Tables
+------------------------------------------------------Tables------------------------------------------------------
 
 Table Name XEAPI
 
@@ -29,7 +29,7 @@ Table Name XEAPI
 - QA_TBL_HT_SCADA_Alarm
 - INT_TBL_SCADA_Integration_Log
 
-Packages Installed
+------------------------------------------------------Packages Installed------------------------------------------------------
 
 NuGet Manager
 Microsoft.EntityFrameworkCore.SqlServer  > Stable 10.0.15
@@ -43,7 +43,7 @@ In the Package Manager Console, set Default project to XE.SCADA.Integration.API
 
 
 
-API's
+------------------------------------------------------API's------------------------------------------------------
 
 API 1: Get List of Unsynced Heat Treatment Batches.
 
